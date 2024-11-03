@@ -1,0 +1,8 @@
+*.p12
+*.pem
+*.cer
+*.key
+
+.env
+
+node_modules
